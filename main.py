@@ -13,7 +13,10 @@ df.columns
 
 
 # %%
+import nltk
+nltk.download('stopwords')
 import re
+
 from nltk.corpus import stopwords
 import nltk
 nltk.download('stopwords')
