@@ -1,6 +1,5 @@
 # %%
-!pip install transformers
-!pip install torch
+
 
 # %%
 import pandas as pd
